@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jenniffer Lino 👋
 
-- 👾 Trabalho atualmente com front-end
+- 👾 Trabalho atualmente com Flutter
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/Dela
 
