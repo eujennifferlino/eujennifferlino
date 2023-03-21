@@ -2,7 +2,7 @@
 
 - 👾 Trabalho atualmente com Front End
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ela/Dela
+- 😄 Criando códigos desde Agosto/2022.
 
 <div align="center">
   <a href="https://github.com/eujennifferlino">
