@@ -1,16 +1,15 @@
-## Olá! Eu sou a Jenniffer Lino 👋
+## Hello! I'm Jenniffer Lino 👋
 
-- 👾 Trabalho atualmente com React Native
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 😄 Criando códigos desde Agosto/2022.
+- 👾 I'm a Software Engineer and my stack is React Native
+- 🎓 Bachelor of Systems Analysis and Development
+- 😄 Creating codes since August/2022.
 
-<div align="center">
+<div>
   <a href="https://github.com/eujennifferlino">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=eujennifferlino&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujennifferlino&layout=compact&langs_count=7&theme=great-gatsby"/><br>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
