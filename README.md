@@ -1,7 +1,7 @@
 ## Hello! I'm Jenniffer Lino 👋
 
-- 👾 I'm a Software Engineer and my stack is React Native
-- 🎓 Bachelor of Systems Analysis and Development
+- 👾 I'm a React Native Software Engineer
+- 🎓 Bachelor of Software Engineering
 - 😄 Creating codes since August/2022.
 
 <div>
