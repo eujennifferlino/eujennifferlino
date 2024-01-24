@@ -2,7 +2,7 @@
 
 - 👾 I'm a Front-end Engineer
 - 🎓 Systems Analysis and Development Student
-- 😄 Creating codes since August/2022.
+- 😄 Creating codes since January/2024.
 
 <div>
   <a href="https://github.com/eujennifferlino">
