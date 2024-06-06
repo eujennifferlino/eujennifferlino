@@ -4,7 +4,7 @@ Desenvolvedora Front-end com experiência em Typescript e Next. Sou estudante de
 
 <p align="center">
 <a href="https://instagram.com/jenniffer.tsx"><img src="https://img.shields.io/badge/-@jenniffer.tsx_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/@jenniffertsx"><img src="https://img.shields.io/badge/-jenniffertsx-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@jenniffertsx"><img src="https://img.shields.io/badge/-jenniffertsx-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jennifferlinoferreira"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jenniffertsx@hotmail.com"><img src="https://img.shields.io/badge/-jenniffertsx@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
