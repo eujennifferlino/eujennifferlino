@@ -28,6 +28,7 @@ No momento atual, meu foco está voltado para tecnologias Frontend como Typescri
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
