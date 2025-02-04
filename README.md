@@ -1,11 +1,10 @@
 # Olá, eu sou a Jenniffer!👋
 
-Desenvolvedora Front-end com experiência em Typescript e Next. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo.
+Desenvolvedora Full Stack com experiência em React e Node. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo.
 
 <p align="center">
-<a href="https://instagram.com/jenniffer.tsx"><img src="https://img.shields.io/badge/-@jenniffer.tsx_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@byjennifferlino"><img src="https://img.shields.io/badge/-Código Expresso-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jennifferlinoferreira"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/byjennifferlino"><img src="https://img.shields.io/badge/-@byjennifferlino_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jennifferlinof"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jenniffertsx@hotmail.com"><img src="https://img.shields.io/badge/-jenniffertsx@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
@@ -25,18 +24,19 @@ No momento atual, meu foco está voltado para tecnologias Frontend como Typescri
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![NestJS](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=E535AB)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <div>
   <a href="https://github.com/eujennifferlino">
