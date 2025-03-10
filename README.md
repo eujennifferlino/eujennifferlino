@@ -27,13 +27,15 @@ No momento atual, meu foco está voltado para tecnologias Frontend como Typescri
 ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=E535AB)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=E535AB)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
