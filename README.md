@@ -3,9 +3,9 @@
 Desenvolvedora Full Stack com experiência em React e Node. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo.
 
 <p align="center">
-<a href="https://instagram.com/jenniffer.logg"><img src="https://img.shields.io/badge/-@byjennifferlino_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jenniffer.logg"><img src="https://img.shields.io/badge/-@jenniffer.logg_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jennifferlinof"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jennifferdeveloper@gmail.com"><img src="https://img.shields.io/badge/-jenniffertsx@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jennifferdeveloper@gmail.com"><img src="https://img.shields.io/badge/-jennifferdeveloper@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
