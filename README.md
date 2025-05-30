@@ -3,9 +3,9 @@
 Desenvolvedora Full Stack com experiência em React e Node. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo.
 
 <p align="center">
-<a href="https://instagram.com/byjennifferlino"><img src="https://img.shields.io/badge/-@byjennifferlino_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jenniffer.logg"><img src="https://img.shields.io/badge/-@byjennifferlino_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jennifferlinof"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jenniffertsx@hotmail.com"><img src="https://img.shields.io/badge/-jenniffertsx@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jennifferdeveloper@gmail.com"><img src="https://img.shields.io/badge/-jenniffertsx@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
@@ -32,12 +32,10 @@ No momento atual, meu foco está voltado para tecnologias Frontend como Typescri
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=E535AB)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <div>
