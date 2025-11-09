@@ -1,6 +1,6 @@
 # Olá, eu sou a Jenniffer!👋
 
-Desenvolvedora Full Stack com experiência em React e Node. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo.
+Desenvolvedora Mobile com experiência em React Native. Sou estudante de Análise e Desenvolvimento de Sistemas na UNINOVE e criadora de conteúdo tech. Atualmente estou dedicando meus estudos ao desenvolvimento iOS nativo visando expandir minha qualidade técnica.
 
 <p align="center">
 <a href="https://instagram.com/jennimartinsf"><img src="https://img.shields.io/badge/-@jennimartinsf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -11,32 +11,18 @@ Desenvolvedora Full Stack com experiência em React e Node. Sou estudante de An�
 
 ## 👨🏻‍💻 Sobre mim
 
-Eu caí de paraquedas no mercado da tecnologia através de um storie no instagram. Eu nem sabia o que era programação e já fiquei fascinada quando vi aquele anúncio falando sobre um mercado aquecido e cheio de oportunidades. Pesquisei no Youtube sobre a profissão para entender as atribuições, plano de carreira e etc. Hoje, sou completamente apaixonada pela área e me considero uma entusiasta das novas tecnologias do mercado, estou constantemente buscando mais conhecimento para aprimorar minhas habilidades.
+Eu caí de paraquedas no mercado da tecnologia através de um storie no instagram. Eu nem sabia o que era programação e já fiquei fascinada quando vi aquele anúncio falando sobre um mercado aquecido e cheio de oportunidades. Pesquisei no Youtube sobre a profissão para entender as atribuições, plano de carreira e tudo mais... Hoje, sou completamente apaixonada pela área e me considero uma entusiasta das novas tecnologias do mercado, estou constantemente buscando mais conhecimento para aprimorar minhas habilidades.
 
-No momento atual, meu foco está voltado para tecnologias Frontend como Typescript, React, Tailwind CSS, React Native, entre outras que utilizo para criar aplicações práticas e funcionais.
+No momento atual, meu foco está voltado para tecnologias Mobile como Typescript, React Native, Swift e Swift UI entre outras que utilizo para criar aplicações práticas e funcionais.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=testinglibrary)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=E535AB)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <div>
   <a href="https://github.com/eujennifferlino">
