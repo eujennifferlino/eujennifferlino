@@ -4,7 +4,7 @@ Desenvolvedora Mobile com experiência em React Native. Sou estudante de Anális
 
 <p align="center">
 <a href="https://instagram.com/jennimartinsf"><img src="https://img.shields.io/badge/-@jennimartinsf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jennifferlinof"><img src="https://img.shields.io/badge/-Jenniffer%20Lino%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jennifferlinof"><img src="https://img.shields.io/badge/-Jenniffer%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jennifferdeveloper@gmail.com"><img src="https://img.shields.io/badge/-jennifferdeveloper@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
@@ -25,8 +25,8 @@ No momento atual, meu foco está voltado para tecnologias Mobile como Typescript
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <div>
-  <a href="https://github.com/eujennifferlino">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=eujennifferlino&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/jenniffermartinsf">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=jenniffermartinsf&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
 
 
